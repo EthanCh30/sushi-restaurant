@@ -46,7 +46,9 @@ Follow the steps below to set up and run this project on your local environment;
 ```
 npm install
 
-or yarn install
+#or
+
+yarn install
 ```
 
 
@@ -57,6 +59,8 @@ Once the dependencies are installed, you can run the project using
 
 ```
 npm run dev
+
+#or
 
 or yarn dev
 ```
